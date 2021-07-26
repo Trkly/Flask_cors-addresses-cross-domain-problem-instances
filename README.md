@@ -27,7 +27,7 @@ if __name__ == '__main__':
 
 ## Github仓库
 相关代码我已经放到了Github，欢迎Star  
-仓库地址：https://github.com/Trkly/Flask_cors-addresses-cross-domain-problem-instances（暂时不行）
+仓库地址：https://github.com/Trkly/Flask_cors-addresses-cross-domain-problem-instances（暂时不行）  
 百度网盘：
 链接：https://pan.baidu.com/s/1F_VmUifToUs3I0SvmxFbcQ 
 提取码：3p8a
